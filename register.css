@@ -1,0 +1,125 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Header starts here */
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: white;
+  height: 40px;
+}
+
+.logo-name {
+  padding-left: 150px;
+  color: rgb(11, 41, 193);
+  font-size: 15px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  gap: 50px;
+}
+
+.nav-item {
+  text-decoration: none;
+  color: black;
+}
+
+.h-btn {
+  margin-right: 300px;
+}
+
+.re-btn {
+  text-decoration: none;
+  background-color: rgb(11, 41, 193);
+  color: white;
+}
+
+.h-btn {
+  border-radius: 5px;
+  border: 1px lightblue;
+  background-color: rgb(11, 41, 193);
+  color: white;
+  margin-top: 10px 0 10px 0;
+  padding: 10px;
+}
+
+/* Header ends here */
+
+.EF-container {
+  width: 90%;
+  margin: 0 5% 0 5%;
+  height: 250px;
+  background-image: linear-gradient(135deg, #a3bffa 0%, #c3aed6 100%);
+  padding-top: 20px;
+}
+
+.container1 {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Pass Container */
+
+.passheader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainpass {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.mainoffer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.suboffer {
+  border: 1px solid black;
+  width: 500px;
+  border-radius: 5px;
+  background-image: linear-gradient(135deg, #c57c45 0%, #a8561b 100%);
+  text-align: center;
+}
+
+.Prempass {
+  border: 1px solid lightgrey;
+  width: 250px;
+  border-radius: 10px;
+}
+
+.Prempass1 {
+  border: 3px solid rgb(53, 53, 158);
+  width: 250px;
+  border-radius: 10px;
+}
+
+.boxpass, .btnpass {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.btn {
+  border-radius: 5px;
+  border: 1px lightblue;
+  background-color: rgb(11, 41, 193);
+  color: white;
+  margin-top: 10px 0 10px 0;
+  padding: 10px;
+}

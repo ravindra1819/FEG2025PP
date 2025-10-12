@@ -46,6 +46,13 @@ body {
   margin-right: 300px;
 }
 
+.re-btn{
+  text-decoration: none;
+  background-color: rgb(11, 41, 193);
+  color: white;
+}
+
+/* Header ends here */
 /* hero section starts here */
 
 .hero-card {
